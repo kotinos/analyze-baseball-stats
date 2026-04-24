@@ -1,6 +1,6 @@
 # Analyze Baseball Stats
 
-Moneyball-style **Streamlit** dashboard: synthetic roster (50 players), **OBP**, and **OBP per \$1M salary** to spotlight high-value bats—no CSVs.
+Moneyball-style **Streamlit** dashboard: synthetic roster (50 players), **OBP**, and **OBP per $1M salary** to spotlight high-value bats—no CSVs.
 
 ## Quick start
 
